@@ -7,8 +7,7 @@ public class Test
         Person p1= new Person ("Mary", 12);
         System.out.println (p1.getName ());
         
-        System.out.println ("Firas");
-        System.out.println ("Yaza");
-        System.out.println ("Lobo");
+        System.out.println ("Faris Abu Awad");
+        System.out.println ("20230164");
     }
 }
